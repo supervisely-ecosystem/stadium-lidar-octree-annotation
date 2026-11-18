@@ -1,0 +1,54 @@
+{
+    "classes": [
+        {
+            "title": "facade",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#F4A261",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "ground",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#969696",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "pitch",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#2A9D5C",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "roof",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#E63946",
+            "geometry_config": {},
+            "hotkey": ""
+        },
+        {
+            "title": "seating stand",
+            "description": "",
+            "shape": "point_cloud",
+            "color": "#457B9D",
+            "geometry_config": {},
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        }
+    }
+}
