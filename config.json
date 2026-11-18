@@ -1,0 +1,13 @@
+{
+  "name": "Stadium LiDAR: Structural Parts",
+  "description": "Airborne LiDAR of Zurich's Letzigrund stadium from swissSURFACE3D: the stadium at full density and its 1 km² tile thinned, ready to split into roof, stands and pitch.",
+  "type": "project",
+  "categories": [
+    "import",
+    "pointclouds",
+    "project",
+    "geospatial"
+  ],
+  "icon": "https://raw.githubusercontent.com/supervisely-ecosystem/stadium-lidar-octree-annotation/master/cover.png",
+  "icon_cover": true
+}
